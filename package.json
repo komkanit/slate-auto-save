@@ -1,7 +1,7 @@
 {
   "name": "slate-auto-save",
-  "version": "0.1.1",
-  "description": "",
+  "version": "0.1.2",
+  "description": "A Slate plugin to handle onChange event on silence without event stack. Useful for implementing auto save Editor.",
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
