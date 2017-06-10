@@ -1,6 +1,6 @@
 {
   "name": "slate-auto-save",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/komcal/slate-auto-save.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "komcal",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/komcal/slate-auto-save/issues"
@@ -19,5 +18,8 @@
   "homepage": "https://github.com/komcal/slate-auto-save#readme",
   "dependencies": {
     "lodash.debounce": "^4.0.8"
-  }
+  },
+  "keywords": [
+    "slate"
+  ]
 }
