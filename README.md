@@ -1,6 +1,6 @@
 # slate-auto-save
 
-A Slate plugin to handle onChange event on silence without event stack. Useful for implementing auto save Editor.
+A [Slate](https://github.com/ianstormtaylor/slate) plugin to handle onChange event on silence without event stack. Useful for implementing auto save Editor.
 
 ## Installation
 ```
